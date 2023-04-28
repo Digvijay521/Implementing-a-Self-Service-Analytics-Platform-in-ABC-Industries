@@ -1,13 +1,13 @@
 # Implementing-a-Self-Service-Analytics-Platform-in-ABC-Industries
 
-1)	Project Objectives	3
-2)	Business Requirements	4
-3)	Project Planning	5
-4)	Data Mining Tool: Implementation and Selection:	8
-5)	Deployment (roll-out) Approach	12
-6)	Assumptions and Important Decisions	14
-7)	Conclusion 	16
-8)	References 	18
+1)	Project Objectives	
+2)	Business Requirements	
+3)	Project Planning	
+4)	Data Mining Tool: Implementation and Selection:	
+5)	Deployment (roll-out) Approach	
+6)	Assumptions and Important Decisions	
+7)	Conclusion 	
+8)	References 	
 
 
  
